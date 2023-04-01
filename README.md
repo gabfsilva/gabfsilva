@@ -1,6 +1,7 @@
 ## Olá! Me chamo Gabriel Ferreira e atualmente sou um desenvolvedor Front-end! 👨‍💻🖥
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabfsilva&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabfsilva&layout=compact&theme=tokyonight)](https://github.com/gabfsilva/github-readme-stats)
 
 ## Linguagens Conhecidas 💭💭
 
